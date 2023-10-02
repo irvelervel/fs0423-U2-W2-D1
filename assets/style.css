@@ -1,0 +1,7 @@
+/* QUI DENTRO METTERETE SOLAMENTE GLI STILI CHE *NON* TROVATE GIÀ PRONTI IN BOOTSTRAP! */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+}
